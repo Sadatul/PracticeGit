@@ -5,5 +5,6 @@ public class New {
         System.out.println("This is my file.");
         System.out.println("This is my file.");
         System.out.println("ADDED TO MAKE CONFLICT");
+        System.out.println("Added in branch1 to make conflict");
     }
 }
